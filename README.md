@@ -7,8 +7,8 @@
 <p>Projeto desenvolvido durante o curso de HTML e CSS Para Iniciantes, da <a href="http://origamid.com">Origamid</a>.</p>
 
 # 💻 O Projeto
-<p>Acesse o projeto <a href="https://helciocandido.github.io/bikcraft/">aqui</a>.</p>
-<p><a href="https://helciocandido.github.io/bikcraft/"><img src="https://i.imgur.com/QN1qglC.png?1" alt="Demostração do site Bikcraft"></a></p>
+<p>Acesse o projeto <a href="https://helciocandido.github.io/bikcraft/" target="_blank">aqui</a>.</p>
+<p><a target="_blank" href="https://helciocandido.github.io/bikcraft/"><img src="https://i.imgur.com/QN1qglC.png?1" alt="Demostração do site Bikcraft"></a></p>
 
 # 🛠 Ferramentas e Tecnologias Utilizadas
 <span>
